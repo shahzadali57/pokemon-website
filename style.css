@@ -52,20 +52,39 @@ margin-top: ;
     margin-left: 20px ;
     position: absolute;
     margin-top: 20px;
+    
 }
 
 .div4{
-    margin-left: 800px;
-    position: sticky;
-    margin-bottom: 100px;
+    margin-left: 200px;
 }
 
 .big3{
 
     margin-top: 340px;
     margin-left: 20px;
+    margin-bottom: 105px;
 }
 
 .big1{
-    margin-bottom: 125px;
+    margin-bottom: 105px;
+
+}
+
+
+.big5{
+    margin-left: 300px;
+    position: absolute;
+    margin-bottom: 100px;
+}
+
+.big4{
+    margin-bottom: 700px;
+    position: absolute;
+}
+
+.big6{
+    margin-left: 600px;
+    
+    position: absolute;
 }
