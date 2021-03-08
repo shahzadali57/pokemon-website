@@ -1,0 +1,71 @@
+.div1{
+    margin-left: 200px;
+    
+    
+}
+
+.padd{
+padding: 13px;
+    
+}
+
+.div2{
+
+    margin-left: 200px;
+}
+
+.marg2{
+background-color: red;
+}
+
+.marg3{
+
+background : #FF8B25;
+}
+.marg4{
+
+    background-color:yellow ;
+}
+
+.marg5{
+
+    background-color: green;
+}
+
+.marg6{
+    background-color: lightseagreen;
+}
+
+.marg7{
+
+    background-color: blue;
+}
+
+.div3{
+margin-top: ;
+    margin-left: 200px;
+}
+
+.big2{
+
+    margin-bottom: 180px;
+    margin-left: 20px ;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.div4{
+    margin-left: 800px;
+    position: sticky;
+    margin-bottom: 100px;
+}
+
+.big3{
+
+    margin-top: 340px;
+    margin-left: 20px;
+}
+
+.big1{
+    margin-bottom: 125px;
+}
